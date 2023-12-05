@@ -24,7 +24,7 @@ public class SwaggerConfig {
 						.version("v0.0.1")
 					.license(new License()
 							.name("Despertartech")
-							.url("https://brazil.generation.org/"))
+							.url("https://despertar.org.br"))
 					.contact(new Contact()
 							.name("Nathali Tagliati")
 							.url("https://github.com/NathTagliati")
